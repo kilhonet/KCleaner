@@ -193,15 +193,6 @@ Il n'y a rien à configurer. Les programmes à garder ouverts se déclarent dans
 
 KCleaner ne se met **pas** à jour tout seul. Au lancement, il vérifie s'il existe une nouvelle version et affiche un avis ; cliquer sur **[Oui]** ouvre la page de téléchargement et ferme le programme. Les nouvelles versions sont publiées manuellement après vérification interne et annoncées sur la [page de KCleaner](https://kilho.net/kcleaner). Consultez l'[avis sur la politique de mise à jour](https://en.kilho.net/archives/notice/2940).
 
-**Historique des versions**
-
-| Version | Date | Modifications |
-|---|---|---|
-| 4.0.0 | 2026-10-01 | Reconstruit en Rust pour plus de fiabilité, nouvelle fonction de nettoyage de fichiers (choix des éléments à supprimer), listes des programmes de démarrage et des services plus faciles à gérer |
-| 3.8.8 | 2026-07-15 | Optimisation de la mémoire plus rapide et plus fiable, affichage du bureau plus stable selon les PC, exécution plus rapide grâce à un nettoyage simplifié, gestion efficace de la mémoire centrée sur le navigateur, ajout de l'espagnol |
-| 3.8.7 | 2026-04-15 | Nettoyer fonctionne de façon stable même si un logiciel de sécurité interfère, certificat de signature de code appliqué et signature améliorée |
-| 3.8.6 | 2026-03-19 | Gestion de la mémoire plus efficace, traitement interne optimisé pour une réponse système plus rapide, moins de mémoire occupée inutilement pour plus de fluidité, améliorations générales des performances |
-
 ## Licence
 
 KCleaner est un **freeware**. Utilisez-le gratuitement et sans restriction partout — au bureau, à la maison, dans l'administration ou à l'école — et redistribuez-le librement.

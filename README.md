@@ -193,15 +193,6 @@ There is nothing to configure. Programs to keep running go in the **WhiteList** 
 
 KCleaner does **not** update itself. When it starts, it checks for a new version and shows a notice; clicking **[Yes]** opens the download page and closes the program. New versions are released manually after internal verification and announced on the [KCleaner page](https://kilho.net/kcleaner). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
 
-**Version history**
-
-| Version | Date | Changes |
-|---|---|---|
-| 4.0.0 | 2026-10-01 | Rebuilt in Rust for greater reliability, new file cleanup feature (choose what to remove), improved startup program and service lists for easier management |
-| 3.8.8 | 2026-07-15 | Faster, more reliable memory optimization, steadier desktop display across PC setups, faster runs with a streamlined cleanup process, efficient browser-focused memory management, Spanish added |
-| 3.8.7 | 2026-04-15 | Clean runs reliably even when security software interferes, code signing certificate applied and signing improved |
-| 3.8.6 | 2026-03-19 | More efficient memory management, internal processing optimized for faster system response, less unnecessary memory use for a smoother experience, overall performance improvements |
-
 ## License
 
 KCleaner is **freeware**. Use it free of charge and without restriction anywhere — at work, at home, in government offices or at school — and redistribute it freely.
